@@ -1,0 +1,70 @@
+{
+  "title": "Acme Robotics 供应商调研报告",
+  "generatedAt": "2026-04-30T00:00:00.000Z",
+  "executiveSummary": "Acme Robotics 与仓储自动化机器人需求存在较高相关性，建议作为候选供应商进入询价和资料核验阶段。主要关注点是价格完整性、交付稳定性、售后服务和资质证明。",
+  "supplierOverview": {
+    "name": "Acme Robotics",
+    "website": "https://example.com",
+    "industry": "智能制造",
+    "productCategory": "仓储自动化机器人",
+    "positioning": "面向企业采购场景的潜在供应商候选对象。",
+    "facts": [
+      "可能具备面向企业客户的产品展示和售前咨询流程。",
+      "需要进一步验证资质、交付周期、售后覆盖和区域服务能力。"
+    ]
+  },
+  "productAnalysis": {
+    "mainProducts": ["仓储自动化机器人", "定制化配套服务", "售前技术咨询"],
+    "pricingSignals": [
+      "公开价格通常不完整，建议通过 RFQ 获取阶梯报价。",
+      "需要拆分样品费、批量价、运费、税费、维护费和定制开发费。"
+    ],
+    "targetCustomers": ["采购团队", "运营团队", "中小企业项目负责人"],
+    "maturity": "growing"
+  },
+  "strengths": [
+    "产品范围与用户调研目标具有直接相关性。",
+    "适合通过结构化询价快速获取可比报价。"
+  ],
+  "risks": [
+    "公开信息可能不足以验证真实产能和交付稳定性。",
+    "价格体系、售后 SLA 和合规资质需要二次确认。"
+  ],
+  "competitorComparison": [
+    {
+      "name": "Alibaba.com 同类供应商",
+      "positioning": "价格透明度较高、可快速比价。",
+      "likelyStrength": "供应商数量多，报价获取速度快。",
+      "likelyWeakness": "质量和售后稳定性差异较大。"
+    },
+    {
+      "name": "区域本地集成商",
+      "positioning": "强调本地交付、部署和售后。",
+      "likelyStrength": "响应速度快，沟通成本低。",
+      "likelyWeakness": "价格可能更高，产品选择范围有限。"
+    }
+  ],
+  "cooperationAdvice": {
+    "fitScore": 78,
+    "recommendedApproach": "建议进入初步询价和资料核验阶段，在获得报价、资质、交付周期和样品测试结果后再决定是否进入合同谈判。",
+    "negotiationPoints": ["阶梯报价", "样品测试费用", "交付周期", "质保与售后 SLA"],
+    "nextSteps": [
+      "发送包含规格、数量、交期和认证要求的 RFQ。",
+      "要求提供公司资质、客户案例、测试报告和售后政策。",
+      "选择 2-3 家竞品供应商建立价格和服务对照表。"
+    ]
+  },
+  "assumptions": [
+    "示例报告不代表真实市场数据，仅用于展示 Agent 工作流。",
+    "未接入付费数据库或实时搜索时，公开信息应由人工或外部工具复核。"
+  ],
+  "sources": [
+    {
+      "title": "用户输入",
+      "url": "https://example.com",
+      "type": "user-input",
+      "confidence": "high",
+      "note": "由用户提供的供应商、行业或 URL 信息。"
+    }
+  ]
+}
